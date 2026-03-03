@@ -1,5 +1,4 @@
 import { ArrowUpRight } from "lucide-react"
-import Image from "next/image"
 
 const projects = [
   {
@@ -48,7 +47,7 @@ export function PortfolioSection() {
           {projects.map((project) => (
             <article key={project.title} className="group cursor-pointer">
               <div className="relative overflow-hidden">
-                <Image
+                <img
                   src={project.image}
                   alt={project.title}
                   width={600}

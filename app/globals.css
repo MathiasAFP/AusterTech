@@ -37,6 +37,8 @@
     --sidebar-accent-foreground: 150 30% 10%;
     --sidebar-border: 150 10% 85%;
     --sidebar-ring: 150 40% 16%;
+    --font-inter: "Inter", system-ui, sans-serif;
+    --font-dm-sans: "DM Sans", system-ui, sans-serif;
   }
 }
 

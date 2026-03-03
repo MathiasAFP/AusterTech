@@ -1,5 +1,4 @@
 import { ArrowUpRight } from "lucide-react"
-import Image from "next/image"
 
 const stats = [
   { value: "5", label: "Integrantes" },
@@ -12,12 +11,10 @@ export function HeroSection() {
   return (
     <section className="relative flex min-h-screen items-end overflow-hidden bg-primary">
       <div className="absolute inset-0">
-        <Image
+        <img
           src="/images/hero-architecture.jpg"
           alt="Arquitetura moderna ao entardecer"
-          fill
-          className="object-cover opacity-40"
-          priority
+          className="h-full w-full object-cover opacity-40"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-primary via-primary/60 to-primary/30" />
       </div>

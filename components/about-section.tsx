@@ -1,5 +1,3 @@
-import Image from "next/image"
-
 const pillars = [
   {
     number: "01",
@@ -40,7 +38,7 @@ export function AboutSection() {
 
         <div className="mt-20 grid gap-12 lg:grid-cols-5 lg:gap-8">
           <div className="relative overflow-hidden lg:col-span-2">
-            <Image
+            <img
               src="/images/about-architecture.jpg"
               alt="Ambiente de trabalho profissional"
               width={600}

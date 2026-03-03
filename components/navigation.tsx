@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react"
 import { Menu, X, ArrowUpRight } from "lucide-react"
-import Image from "next/image"
 
 const navLinks = [
   { label: "Sobre", href: "#about" },
@@ -31,7 +30,7 @@ export function Navigation() {
     >
       <nav className="mx-auto flex max-w-[1280px] items-center justify-between px-6 py-5 lg:px-12">
         <a href="#" className="flex items-center gap-3">
-          <Image
+          <img
             src="/images/logo.png"
             alt="Auster logo"
             width={40}

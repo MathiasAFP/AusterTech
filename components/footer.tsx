@@ -1,5 +1,3 @@
-import Image from "next/image"
-
 const companyLinks = [
   { label: "Sobre", href: "#about" },
   { label: "Portfólio", href: "#portfolio" },
@@ -27,7 +25,7 @@ export function Footer() {
         <div className="grid gap-12 md:grid-cols-[1.5fr_1fr_1fr_1fr]">
           <div>
             <div className="flex items-center gap-3">
-              <Image
+              <img
                 src="/images/logo.png"
                 alt="Logo Auster"
                 width={36}
