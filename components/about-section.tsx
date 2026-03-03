@@ -31,7 +31,7 @@ export function AboutSection() {
           </div>
           <div className="flex flex-col justify-end">
             <p className="text-lg leading-relaxed text-muted-foreground text-pretty">
-              A Auster foi fundada com a missão de provar que jovens estudantes podem entregar projetos de alto nível. Nosso método combina planejamento estratégico, colaboração e execução disciplinada para gerar resultados reais em cada iniciativa.
+              A Auster também foi fundada com a missão de provar que jovens estudantes podem entregar projetos de alto nível. Nosso método combina planejamento estratégico, colaboração e execução disciplinada para gerar resultados reais em cada iniciativa.
             </p>
           </div>
         </div>

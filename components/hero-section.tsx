@@ -3,7 +3,7 @@ import { ArrowUpRight } from "lucide-react"
 const stats = [
   { value: "5", label: "Integrantes" },
   { value: "3+", label: "Projetos Desenvolvidos" },
-  { value: "2025", label: "Fundação" },
+  { value: "2026", label: "Fundação" },
   { value: "100%", label: "Compromisso" },
 ]
 
@@ -25,10 +25,10 @@ export function HeroSection() {
             {"Inovação & Tecnologia Estudantil"}
           </p>
           <h1 className="font-display text-4xl font-semibold leading-[1.1] tracking-tight text-primary-foreground text-balance sm:text-5xl md:text-6xl lg:text-7xl">
-            Desenvolvendo soluções com propósito e inovação
+            Desenvolvendo sistemas com exclusividade e inovação
           </h1>
           <p className="mt-8 max-w-[560px] text-lg leading-relaxed text-primary-foreground/70">
-            A Auster é um grupo estudantil dedicado ao desenvolvimento de projetos em tecnologia, design e impacto social. Transformamos ideias em resultados concretos.
+            A Auster Tech nasceu no sul do Brasil, em uma região marcada por paisagens frias, elegantes e silenciosas — um cenário que inspirou desde o início a busca por sofisticação e autenticidade. Fundada por um pequeno grupo de empreendedores apaixonados por tecnologia, a empresa surgiu com um propósito claro: transformar sistemas em experiências exclusivas.
           </p>
           <div className="mt-12 flex flex-col gap-4 sm:flex-row sm:items-center">
             <a

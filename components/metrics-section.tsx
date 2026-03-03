@@ -2,7 +2,7 @@ const metrics = [
   { value: "5", label: "Membros Ativos", sub: "Equipe multidisciplinar" },
   { value: "3+", label: "Projetos Entregues", sub: "Em constante crescimento" },
   { value: "100%", label: "Produção Própria", sub: "Concepção à entrega" },
-  { value: "2025", label: "Ano de Fundação", sub: "Trajetória em construção" },
+  { value: "2026", label: "Ano de Fundação", sub: "Trajetória em construção" },
 ]
 
 export function MetricsSection() {

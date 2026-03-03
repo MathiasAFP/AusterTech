@@ -2,8 +2,8 @@ const team = [
   {
     initials: "SV",
     name: "Samuel Vortmann",
-    role: "Cofundador & Estratégia",
-    bio: "Responsável pela visão geral dos projetos, trazendo novas ideias e direcionamento estratégico para a equipe.",
+    role: "Gestão & Operações",
+    bio: "Coordena prazos, organiza processos e mantém a equipe alinhada nos objetivos de cada projeto.",
   },
   {
     initials: "MP",
@@ -14,8 +14,8 @@ const team = [
   {
     initials: "FP",
     name: "Felipe Pertile",
-    role: "Gestão & Operações",
-    bio: "Coordena prazos, organiza processos e mantém a equipe alinhada nos objetivos de cada projeto.",
+    role: "Cofundador & Estratégia",
+    bio: "Responsável pela visão geral dos projetos, trazendo novas ideias e direcionamento estratégico para a equipe.",
   },
   {
     initials: "MB",
